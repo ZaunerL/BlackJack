@@ -4,7 +4,7 @@ public class Croupier extends Spieler{
 
 	public Croupier(String n) {
 		super(n);
-
+		System.out.println();
 	}
 
 }

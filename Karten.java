@@ -16,7 +16,7 @@ package BlackjackPackage;
  */
 public class Karten {
 	int zahl;
-	
+
 	public Karten(int z){
 		z++;
 		if((int)z%13 > 10) zahl = 10;
